@@ -1,0 +1,27 @@
+div#wrapper {
+  width: 800px;
+  margin: 0 auto;
+  overflow-y: auto;
+}
+
+div#cm-wrapper {
+  padding: 0 20px;
+}
+
+.CodeMirror-scroll {
+  height: 500px;
+}
+
+li#new-tab input {
+  height: 14px;
+  margin: 4px 1px;
+}
+
+.CH .nav-tabs > .active > a, .CH .nav-tabs > .active > a:hover {
+  color: #555;
+  cursor: default;  
+  background-color: white;
+  border: 1px solid #DDD;
+  border-bottom-color: transparent;
+  border-radius: 4px 15px 0 0;
+}
